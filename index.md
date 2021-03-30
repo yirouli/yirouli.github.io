@@ -4,26 +4,18 @@
 
 ### Research Acitivities
 
-[Novel Data Representations for Virtual Reality Exergames](/vr_dataciz)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Novel Data Representations for Virtual Reality Exergames](/research/vr_dataviz)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[User Experience Improvements of Products for Tech Company](/research/tech_company)
+
 
 ---
 
-### Design Activities
+### Prototype & Design Activities
 
-- [Mobile App Design for Car Dealership](/images/carnex.png)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Home Page Design of Mobile App for Car Dealership](/images/car_mobile.png)
+
 
 ---
 

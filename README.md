@@ -1,23 +1,44 @@
-## Developer Portfolio Landing Page Template
+# Quick Style Cheatsheet
 
-### Introduction
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+To link to another page, [Link to another page](./another-page.html).
 
-<img src="images/demo.gif?raw=true"/>
+There should be whitespace between paragraphs.
 
-### Installation
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+# Header level 1
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## Header level 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Header level 3
 
-### Markdown
+#### Header level 4
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Header level 5
+
+###### Header level 6
+
+> Block quote.
+
+*   Unordered list.
+
+- Nested list top level 1.
+ - level 2
+  -level 3
+- Nested list top level 2.
+ - level 2
+
+1.  Numbered list.
+
+| col1        | col2       | col3     |
+|:------------|:-----------|:---------|
+| entry1.1    | entry1.2   | entry1.3 |
+| entry2.2    | `entry`2.2 | entry2.3   |
+
+* * *
+
 
 ```markdown
 Syntax highlighted code block
@@ -37,15 +58,24 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Roadmap
 
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
+### Definition lists can be used with HTML syntax.
 
-### References
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+
+
