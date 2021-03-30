@@ -22,7 +22,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 > Block quote.
 
-*   Unordered list.
+*   Bullet list.
 
 - Nested list top level 1.
  - level 2
@@ -31,6 +31,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
  - level 2
 
 1.  Numbered list.
+
+* * *
 
 | col1        | col2       | col3     |
 |:------------|:-----------|:---------|
@@ -58,24 +60,22 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```
+Long, single-line blocks that does not wrap, should be able to horizontally scrolled if anyone want to see the whole line of script. This is just a sample long line.
+```
 
-
-### Definition lists can be used with HTML syntax.
+### Definition lists.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Blue</dd>
+<dt>Season</dt>
+<dd>Winter</dd>
+<dt>Sport</dt>>
+<dd>Skiing</dd>>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+
 
 
 

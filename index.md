@@ -4,10 +4,19 @@
 
 ### Research Acitivities
 
-[Novel Data Representations for Virtual Reality Exergames](/research/vr_dataviz)
+[User Experience Improvements of Products for Tech Company](/research/tech)
 
+--------------------------------
 
-[User Experience Improvements of Products for Tech Company](/research/tech_company)
+[Novel Data Representations for Virtual Reality Exergames](/research/dataviz)
+
+--------------------------------
+
+[Virtual Reality Exergames for People Living with Dementia](/research/vr)
+
+--------------------------------
+
+[Eletronic Health Record System Evaluation](/research/ehr)
 
 
 ---
