@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Research Acitivities
 
-[Project 1 Title](/sample_page)
+[Novel Data Representations for Virtual Reality Exergames](/vr_dataciz)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Design Activities
 
-- [Project 1 Title](http://example.com/)
+- [Mobile App Design for Car Dealership](/images/carnex.png)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
