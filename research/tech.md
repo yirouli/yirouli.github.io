@@ -18,3 +18,19 @@ June 2018 - Present | Role: User Experience Consultant
 
 
 ## User Experience Improvement Processes
+
+### Identify Problems
+Depending on the feature and the products, there will be different problem identification approaches for the specific problem.
+
+#### New function usability reviews
+
+
+#### New feature requests
+
+
+
+### Propose Solution
+
+
+
+
