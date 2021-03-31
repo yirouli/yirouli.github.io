@@ -76,10 +76,14 @@ Through an online questionnaire, the data visualziations are evaluated using a s
 Total 47 valid responses. Analysis in progress.
 
 ## Outcomes 
-* ![Distance rowed data visualization](/images/DRDV.png)
-* ![Heart rate and (arm movement) stroke rate data visualization](/images/HRSR.png)
-* ![Frontal reach and overhead reach data visualization](/images/FROR.png)
-* ![3D motion trajectory during gameplay data visualization](/images/MTDG.png)
+* Distance rowed data visualization
+<img src="images/DRDV.png?raw=true"/>
+* Heart rate and (arm movement) stroke rate data visualization
+<img src="images/HRSR.png?raw=true"/>
+* Frontal reach and overhead reach data visualization
+<img src="images/FROR.png?raw=true"/>
+* 3D motion trajectory during gameplay data visualization
+<img src="images/MTDG.png?raw=true"/>
 * [Prilimiary evaluation](ttp://hdl.handle.net/10012/16614) of proposed data visualizations.
 
 

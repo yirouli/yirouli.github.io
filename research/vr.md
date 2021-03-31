@@ -41,4 +41,4 @@ Based on the current exercise therapy practice, therapeutic recommendations for 
 
 
 ## Publications 
-* Li Y., Muñoz J., Mehrabi S., Middleton L., Cao S., Boger J. (2020) Multidisciplinary Iterative Design of Exergames (MIDE): A Framework for Supporting the Design, Development, and Evaluation of Exergames for Health. In: Fang X. (eds) HCI in Games. HCII 2020. Lecture Notes in Computer Science, vol 12211. Springer, Cham. https://doi.org/10.1007/978-3-030-50164-8_9
+* Li Y., Muñoz J., Mehrabi S., Middleton L., Cao S., Boger J. (2020) Multidisciplinary Iterative Design of Exergames (MIDE): A Framework for Supporting the Design, Development, and Evaluation of Exergames for Health. In: Fang X. (eds) HCI in Games. HCII 2020. Lecture Notes in Computer Science, vol 12211. Springer, Cham. [https://doi.org/10.1007/978-3-030-50164-8_9](https://doi.org/10.1007/978-3-030-50164-8_9)
