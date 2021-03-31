@@ -24,7 +24,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 *   Bullet list.
 
- Nested list top level 1.
+- Nested list top level 1.
 	level 2
 		-level 3
 - Nested list top level 2.
