@@ -24,10 +24,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 *   Bullet list.
 
-- Nested list top level 1.
+* Nested list top level 1.
  - level 2
   -level 3
-- Nested list top level 2.
+* Nested list top level 2.
  - level 2
 
 1.  Numbered list.
@@ -71,8 +71,8 @@ Long, single-line blocks that does not wrap, should be able to horizontally scro
 <dd>Blue</dd>
 <dt>Season</dt>
 <dd>Winter</dd>
-<dt>Sport</dt>>
-<dd>Skiing</dd>>
+<dt>Sport</dt>
+<dd>Skiing</dd>
 </dl>
 
 
