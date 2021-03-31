@@ -20,17 +20,23 @@ June 2018 - Present | Role: User Experience Consultant
 ## User Experience Improvement Processes
 
 ### Identify Problems
-Depending on the feature and the products, there will be different problem identification approaches for the specific problem.
-
-#### New function usability reviews
-
-
-#### New feature requests
-
+Depending on the feature and the products, different method will be used.
+- User interviews
+ - Semi-structured: Shadow specific user workflows and probe questions.
+ - Unstructured: Document user questions while exploring user interfaces.
+- Technical meetings with development team
+ - Understand technical capabilities and limitations
+ - Identify user stories and special cases
 
 
 ### Propose Solution
-
+- Solution mechanics
+ - What others do
+ - Exisiting feastures
+- Solution workflows
+ - Event/Action
+ - Environment states
+ - Responsive behavior
 
 
 

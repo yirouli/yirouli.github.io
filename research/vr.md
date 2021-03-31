@@ -6,15 +6,34 @@
 Exercise has been shown to have significant physical, cognitive, and emotional benefits for older adults, however, changing abilities can make it difficult for people living with dementia to engage in exercise. With the [pilot trial](https://www.youtube.com/watch?v=G34FasThCgY), we have demonstrated the potential of VR exergames for people living with dementia. Together with therapists, people with early-stage dementia and a VR game development company, we co-creat a set of VR exercise games to encourage engagement in exercise for people living with dementia in long-term care facilities using head-mounted displayed VR headset.
 
 
-## Research Team
+## Contribution
+I helped structure and carry out the sessions.
 
+## Participants
+- local long-term care facilities
+ - 25 exercise professionals
+ - 5 residents living with dementia
+- collaborating VR game development company
+ - 1 healthcare consultant
+ - 2 technical consultants
+- University of Waterloo research team
+ - 5 researchers from the Department of Kinesiology
+ - 4 researchers from the Department of Engineering
 
-## Process
 
 ### Problem Probing
+#### Literature Review
+A comphrensive literature review on VR exergames for people living with dementia was conducted to identify problem space, understand the existing solutions, and review design guidelines for the target population. 
+
+#### System Requirement and Expectations
+Based on the current exercise therapy practice, therapeutic recommendations for exercise prescription, and physical challenges faced by the target population, a list of desired movements and physical fitness goal was defined.
 
 ### Problem Solving
+#### Brainstorming Sessions
+3 brainstorming sessions were conducted to create paper prototypes and discuss possible game mechanics and scenarios of the VR exergames. 
 
+#### Playtesting Sessions
+6 playtesting sessions were carried out to refine specific elements of the game.
 
 ## Outcomes 
 * A suite of [VR exergames](https://www.youtube.com/watch?v=UighfmftAWA&t=3s) for people living with dementia.

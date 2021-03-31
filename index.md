@@ -16,7 +16,7 @@
 
 --------------------------------
 
-[Eletronic Health Record System Evaluation](/research/ehr)
+<!-- [Eletronic Health Record System Evaluation](/research/ehr) -->
 
 
 ---
@@ -26,7 +26,6 @@
 - [Home Page Design of Mobile App for Car Dealership](/images/car_mobile.png)
 
 
----
 
 
 
