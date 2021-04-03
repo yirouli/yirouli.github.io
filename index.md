@@ -4,7 +4,8 @@
 
 ### Research Acitivities
 
-[User Experience Improvements of Products for Tech Company](/research/tech)
+[User Experience Improvements of Wolfram Products](/research/wolfram)
+<a href="https://www.wolfram.com/" target="_blank"><img src="images/wolfram_icon.png?raw=true"/></a>
 
 --------------------------------
 
