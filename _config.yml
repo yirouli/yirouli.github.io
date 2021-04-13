@@ -9,8 +9,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a UX researcher with 2 years' of academic experience in user-centered design techniques and mix-method analysis.
   I am also a UX consultant at Wolfram Research, Inc since 2018 for vairous feature improvements and updates.
   <br><br>
-  <a rel="me" href="https://www.linkedin.com/in/yirou-li-5b6b2ba5" title="linkedin">View My LinkedIn Profile</a>
-  <a rel="me" href="/pdf/resume_ux.pdf" title="resume">View My Resume</a>
+  <a rel="me" href="https://www.linkedin.com/in/yirou-li-5b6b2ba5" title="linkedin" target="_blank">View My LinkedIn Profile</a>
+  <br><br>
+  <a rel="me" href="/pdf/resume_ux.pdf" title="resume" target="_blank">View My Resume</a>
 
   
 theme: jekyll-theme-minimal
