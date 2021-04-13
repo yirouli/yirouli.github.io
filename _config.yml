@@ -3,11 +3,14 @@ title: Yirou (Chris) Li # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   User Experience Researcher
-  <br><br>
   MASc in Systems Design Engineering @UWaterloo
+  B.A in Industrial Engineering @UIUC
+  <br><br>
+  I am a UX researcher with 2 years' of academic experience in user-centered design techniques and mix-method analysis.
+  I am also a UX consultant at [Wolfram Research, Inc](https://www.wolfram.com/) since 2018 for vairous feature improvements and updates.
   <br><br>
   <a rel="me" href="https://www.linkedin.com/in/yirou-li-5b6b2ba5" title="linkedin">View My LinkedIn Profile</a>
-
+  [View My Resume](/pdf/resume_ux.pdf)
 
   
 theme: jekyll-theme-minimal

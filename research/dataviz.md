@@ -3,15 +3,24 @@
 
 ## Project Description
 
-Exergames have the potential to collect quantified, objective, and complementary information about the exergaming sessions through the use of motion-based technologies. However, limited research has explored how VR exergames can be used as tools to manage and administer exercise programs using the information collected in exergaming sessions. 
+Through the use of motion-based technologies (Xbox Kinect, Nintendo Wii, etc.), exergames have the potential to collect quantified, objective, and complementary information about the exergaming sessions. However, limited research has explored how exergames can be used as tools to manage and administer exercise programs using the information collected in exergaming sessions. 
 
 The objectives of this project are:
-1. Explore metrics related to the performance of a person.
-2. Co-create data visualizations for the information collected with exercise therapists.
-3. Evaluate the proposed data visualizations on its potential of complementing existing exercise therapy.
+1. Explore metrics related to the performance of a person during an exergaming session using the developed [VR exergames](/research/vr).
+2. Co-create data visualizations with exercise therapists to deliver meaningful information about an exergaming session or client status.
+3. Evaluate the proposed data visualizations on its potential of complementing existing exercise therapy through an online questionnaire.
 
 ## Contribution
-I lead the sessions and data analysis process in this project.
+I design and lead the study (developing session scripts, moderate sessions), as well as data analysis process in this project.
+
+
+## Outcomes
+* A list of collectable information from VR equipment and their therapeutic meanings.
+* Four data visualization concepts in representing player's performance and status.
+* Evaluation and future directions of the four data visualization proposals.
+* Publications
+	* Yirou Li (2021). Development of novel data representations for virtual reality exergames. UWSpace. [http://hdl.handle.net/10012/16614](http://hdl.handle.net/10012/16614)
+
 
 ## Process
 The overall project is devided into three phases:
@@ -75,17 +84,3 @@ Through an online questionnaire, the data visualziations are evaluated using a s
 **Results:**
 Total 47 valid responses. Analysis in progress.
 
-## Outcomes 
-* Distance rowed data visualization
-<img src="images/DRDV.png?raw=true"/>
-* Heart rate and (arm movement) stroke rate data visualization
-<img src="images/HRSR.png?raw=true"/>
-* Frontal reach and overhead reach data visualization
-<img src="images/FROR.png?raw=true"/>
-* 3D motion trajectory during gameplay data visualization
-<img src="images/MTDG.png?raw=true"/>
-* [Prilimiary evaluation](ttp://hdl.handle.net/10012/16614) of proposed data visualizations.
-
-
-## Publications 
-* Yirou Li (2021). Development of novel data representations for virtual reality exergames. UWSpace. [http://hdl.handle.net/10012/16614](http://hdl.handle.net/10012/16614)

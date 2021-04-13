@@ -4,10 +4,6 @@
 
 ### Research Acitivities
 
-[User Experience Improvements of Wolfram Products](/research/wolfram)
-<a href="https://www.wolfram.com/" target="_blank"><img src="images/wolfram_icon.png?raw=true"/></a>
-
---------------------------------
 
 [Novel Data Representations for Virtual Reality Exergames](/research/dataviz)
 
@@ -24,8 +20,10 @@
 
 ### Prototype & Design Activities
 
-- [Home Page Design of Mobile App for Car Dealership](/images/car_mobile.png)
+- [User Experience Improvements of Wolfram Products](/work/wolfram)
+<a href="https://www.wolfram.com/" target="_blank"><img src="images/wolfram_icon.png?raw=true"/></a>
 
+- [Home Page Design of Mobile App for Car Dealership](/images/car_mobile.png)
 
 
 

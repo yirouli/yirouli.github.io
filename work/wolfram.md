@@ -9,7 +9,7 @@ June 2018 - Present | Role: User Experience Consultant
 	- Wolfram Desktop
 - Wolfram mobile Applications
 	- Wolfram Cloud
-
+** Activities ***
 - Provide clean and annotated wireframes of products features(Axure/Sketch)
 	- Identify user stories
 	- Document workflow diagrams
@@ -19,16 +19,18 @@ June 2018 - Present | Role: User Experience Consultant
 	- Current practice and trends on the market using competitive products
 	- Design guidelines for different operating systems
 - Communication
-	- User interviews
 	- Iterate proposal with development team and design team
 	- Present deliverables to various stakeholders
+	- User interviews
 
 
-## Desktop Products --- Email to... 
+## Sample Projects
+
+### Desktop Products --- Email to... 
 A new menu item that allows user sending the current working (potentially unsaved) file, similar to existing feature in Wolfram Cloud.
 
 
-## Wolfram Cloud --- Notify users with limited permissions
+### Wolfram Cloud --- Notify users with limited permissions
 For interactive objects, such as [3D graphics](https://reference.wolfram.com/language/ref/Graphics3D.html) or [manipulations](https://reference.wolfram.com/language/ref/Manipulate.html?q=Manipulate), user need to be given proper permissions to interact when viewing other's notebook. 
 
 
