@@ -2,17 +2,17 @@
 June 2018 - Present | Role: User Experience Consultant
 
 ## Responsibilities
-** Contributing Products **
+**Products**
 - Wolfram Cloud
 - Wolfram desktop products
 	- Wolfram Mathematica
 	- Wolfram Desktop
 - Wolfram mobile Applications
 	- Wolfram Cloud
-** Activities ***
+**Activities***
 - Provide clean and annotated wireframes of products features(Axure/Sketch)
 	- Identify user stories
-	- Document workflow diagrams
+	- Document workflow and potential edge cases
 	- Provide (interactive) propotypes
 - Research and audit
 	- Existing products to identify usability issues
@@ -27,12 +27,14 @@ June 2018 - Present | Role: User Experience Consultant
 ## Sample Projects
 
 ### Desktop Products --- Email to... 
-A new menu item that allows user sending the current working (potentially unsaved) file, similar to existing feature in Wolfram Cloud.
-
+**Project Description:** A new menu item that allows user sending the current working (potentially unsaved) file, similar to existing feature in Wolfram Cloud.
+**Prototype:**
+<a><img src="images/email_to.png?raw=true"/></a>
 
 ### Wolfram Cloud --- Notify users with limited permissions
-For interactive objects, such as [3D graphics](https://reference.wolfram.com/language/ref/Graphics3D.html) or [manipulations](https://reference.wolfram.com/language/ref/Manipulate.html?q=Manipulate), user need to be given proper permissions to interact when viewing other's notebook. 
-
+**Project Description:** For interactive objects, such as [3D graphics](https://reference.wolfram.com/language/ref/Graphics3D.html) or [manipulations](https://reference.wolfram.com/language/ref/Manipulate.html?q=Manipulate), user need to be given proper permissions to interact when viewing other's notebook. 
+**Prototype:**
+<a href="https://www.wolframcloud.com/obj/ddd0ff6c-66cb-4bd6-a0e6-2a320df0f387" target="_blank"><img src="images/dynamic.png?raw=true"/></a>
 
 
 <!-- ## User Experience Improvement Processes
