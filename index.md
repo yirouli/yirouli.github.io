@@ -1,5 +1,13 @@
 ## Portfolio
 
+<p>I work at Wolfram Research since 2018 as a UX consultant for user experience improvements on various products among different platforms (Desktop, Web, Mobile).
+I work closely with designers and developers to ensure user-centered design remains core of the project and research evidence supports design decisions.
+Together with 2 years' academic training, I am proficient in user-centered design methods and mix-method analysis.
+</p>
+
+<p>
+I believe technology should be effortless through user-centric design thinking.
+</p>
 ---
 
 ### Research Acitivities
