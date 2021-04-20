@@ -28,14 +28,41 @@ June 2018 - Present | Role: User Experience Consultant
 ## Sample Projects
 
 ### Desktop Products --- Email to... 
-**Project Description:** A new menu item that allows user sending the current working (potentially unsaved) file, similar to existing feature in Wolfram Cloud.
+**Project Description:** 
+A new menu item that allows user sending the current working (potentially unsaved) file, similar to existing feature in Wolfram Cloud.
+The **_goal_** of this project was to:
+1. Identify dialog states relating to different user scenarios
+2. Provide interface proposal and specs based on existing features in Wolfram Cloud 
+
+**Process:**
+_Problem Scoping:_ Through 1 kickoff meeting with development team, the project scope and capabilities were specified. User scenarios were generated based on the function and flow:
+- User wants to send the file as an attachment
+	- File is attached and sent
+	- File is too large to be sent as an attachment
+- User wants to send the file via Cloud
+	- User has not signed into Wolfram Cloud
+	- User has signed into Wolfram Cloud and file is sent
+	- File is too large to be sent via Cloud
+_Research:_
+- Investigated existing "send to" dialog in Wolfram Cloud
+- Reviewed "email to" functionalities in competitive products
+_Solution Proposal:_ Through 2 interative discussion meetings with development team, the wireframe was finalized.
 
 **Prototype:**
 <a><img src="../images/email_to.png?raw=true"/></a>
 
 ### Wolfram Cloud --- Notify users with limited permissions
 **Project Description:** For interactive objects, such as [3D graphics](https://reference.wolfram.com/language/ref/Graphics3D.html) or [manipulations](https://reference.wolfram.com/language/ref/Manipulate.html?q=Manipulate), user need to be given proper permissions to interact when viewing other's notebook. 
+The **_goal_** of this project was to: Notify user that they lack of permissions for interative actions.
 
+**Process:**
+_Problem Scoping:_ Through 2 kickoff meetings with development team, the project scope and user issue were specified. 
+_Research:_
+- Investigated existing error cases and notification type in Wolfram Cloud
+- Identify different user situations:
+	- Cache of the interactive content is available
+	- Cache of the interactive content is not available
+_Solution Proposal:_ Through 2 interative discussion meetings with development team, the wireframe was finalized and sent to design.
 **Prototype:**
 <a href="https://www.wolframcloud.com/obj/ddd0ff6c-66cb-4bd6-a0e6-2a320df0f387" target="_blank"><img src="../images/dynamic.png?raw=true"/></a>
 
