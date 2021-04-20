@@ -23,6 +23,10 @@ I design and lead the study (developing session scripts, moderate sessions), as 
 
 
 ## Process
+<p>Although the VR exergames aim to promote physical activities in older adults (especially those from community or long-term care faciliteis), the developed VR exergames should be deployed to various settings and complement exisiting exercise programs delivery. We believe that novel data representations which emphasize on player's performance and exercise sessions could help reduce the workload of exercise professionals and promote better communications within the process. 
+</p>
+<p>After investigation of the VR system capability and therapeutic expectations, a set of iterative co-design activities were conducted with collaborating exercise professional to best reflect their needs and preferences. The proposed design were then evaluated through online survey.
+</p>
 The overall project is devided into three phases based on the objectives:
 1. Identification of vital information collected from VR exergames to represent player's performance and fitness - _**informal interviews & ranking survey with semi-structured interviews**_.
 2. Co-creation of data visualizations with collaborating exercise professionals - _**co-design workshops & semi-structured focus groups**_.
@@ -39,9 +43,6 @@ Therapeutic needs and system capabilities were defined through _literature revie
 * 3 researchers from the University of Waterloo, field of Engineering
 * 3 consultants (healthcare & VR game development) from collaborating VR game development company
 
-**Results:**
-A list of possible outcomes and metrics that can be collected.
-
 #### Ranking survey with semi-structured interview
 Due to restricted access to long-term care facilities during COVID-19, additional exercise professionals from local community programs were recrutied to continue investigate user preference and needs. Exercise professional were asked fill out a _survey_ to rank and comment on the identified potential metrics. Afterwards, a _semi-structured group interview_ was carried out to further discuss the results and insights.
 
@@ -50,8 +51,9 @@ Due to restricted access to long-term care facilities during COVID-19, additiona
 * 3 researchers from the University of Waterloo, field of Kinesiology
 * 1 researchers from the University of Waterloo, field of Engineering
 
-**Results:**
-Prioritized list of outcomes and metrics.
+#### Results
+Prioritized list of outcomes and metrics that could be implemented for the developed VR exergames.
+<a><img src="images/metrics.png?raw=true"/></a>
 
 ### Data Visualization Creation Process
 An interative co-design process was carried out with the same exercise professionals from local ocmmunity programs to develop data visualizations. Two _remote semi-structured focus groups_ were used to brainstorm and refine the data visualization concepts.
@@ -72,7 +74,12 @@ An interative co-design process was carried out with the same exercise professio
 
 **Results:**
 - Conceptual map representing the feasible metrics and expected features was constructured.
-- Four initial data visualizations were proposed.
+<a><img src="images/cp.png?raw=true"/></a>
+- Four initial data visualization proposals for futher design brainstorming:
+	- [Distance Rowed Data Visualization](/images/DRDV_1.png)
+	- [Heart Rate Data Visualization](/images/HRSR_1.png)
+	- [Functional Reach Data Visualization](/images/FROR_1.png)
+	- [Motion Trajectory During Gameplay Data Visualization](/images/MTDG_1.png)
 
 #### Revision Focus Group
 **Goal:**
@@ -86,8 +93,28 @@ An interative co-design process was carried out with the same exercise professio
 - Data visualizations discussions: The four data visualizations created in the previous workshop were presented one at a time to promote discussions through the semi-structured questions 
 
 **Resutls:**
-Four data visualizations were revised based on the feedback from the focus group.
-
+- Revision insights and suggestions for the initial proposals.
+	- [Distance Rowed Data Visualization](/images/DRDV_1.png)
+		- Use intuitive graphical representations at the end of horizontal lines/bars. 
+        - Insert footnotes to record conditions that may inversely affect client performance (e.g., lack of sleep, persistent pain).
+        - Highlight the best session and the positive information
+	- [Heart Rate Data Visualization](/images/HRSR_1.png)
+		- Option (c) is preferred.
+        - Heart rate zone provides helpful contextual information.
+        - The time client spent in each heart rate zone would be helpful.
+	- [Functional Reach Data Visualization](/images/FROR_1.png)
+		- Asymmetric information can be detected easily.
+        - The normative data is helpful.
+    	- Overhead reach is useful to see.
+	- [Motion Trajectory During Gameplay Data Visualization](/images/MTDG_1.png)
+		- Time feature is needed to understand the movements during the exergaming session.
+        - Averaged motion trajectory would be helpful.
+        - Maximum value for range of motion could be displayed.
+- Revised data visualizations
+	- [Distance Rowed Data Visualization](/images/DRDV.png)
+	- [Heart Rate And (Arm Movement) Stroke Rate Data Visualization](/images/HRSR.png)
+	- [Frontal Reach And Overhead Reach Data Visualization](/images/FROR.png)
+	- [Motion Trajectory During Gameplay Data Visualization](/images/MTDG.png)
 
 ### Data Visualization Evaluation Process
 **Questions:**

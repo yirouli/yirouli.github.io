@@ -17,6 +17,10 @@ I believe technology should be effortless through user-centric design thinking.
 
 --------------------------------
 
+[User Experience Improvements of Wolfram Products](/work/wolfram)
+<a href="https://www.wolfram.com/" target="_blank"><img src="images/wolfram_icon.png?raw=true"/></a>
+
+--------------------------------
 [Virtual Reality Exergames for People Living with Dementia](/research/vr)
 
 --------------------------------
@@ -27,9 +31,6 @@ I believe technology should be effortless through user-centric design thinking.
 ---
 
 ### Prototype & Design Activities
-
-- [User Experience Improvements of Wolfram Products](/work/wolfram)
-<a href="https://www.wolfram.com/" target="_blank"><img src="images/wolfram_icon.png?raw=true"/></a>
 
 - [Home Page Design of Mobile App for Car Dealership](/images/car_mobile.png)
 
