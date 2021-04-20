@@ -20,7 +20,7 @@ I believe technology should be effortless through user-centric design thinking.
 --------------------------------
 [Virtual Reality Exergames for People Living with Dementia](/research/vr)
 
---------------------------------
+<!-- -------------------------------- -->
 
 <!-- [Eletronic Health Record System Evaluation](/research/ehr) -->
 

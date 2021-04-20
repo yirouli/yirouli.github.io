@@ -35,7 +35,11 @@ The **_goal_** of this project was to:
 2. Provide interface proposal and specs based on existing features in Wolfram Cloud 
 
 **Process:**
-_Problem Scoping:_ Through 1 kickoff meeting with development team, the project scope and capabilities were specified. User scenarios were generated based on the function and flow:
+<p>
+_Problem Scoping:_ Through 1 kickoff meeting with development team, the project scope and capabilities were specified. 
+</p>
+<p>
+User scenarios were generated based on the function and flow:
 - User wants to send the file as an attachment
 	- File is attached and sent
 	- File is too large to be sent as an attachment
@@ -43,11 +47,15 @@ _Problem Scoping:_ Through 1 kickoff meeting with development team, the project 
 	- User has not signed into Wolfram Cloud
 	- User has signed into Wolfram Cloud and file is sent
 	- File is too large to be sent via Cloud
+</p>
+<p>
 _Research:_
 - Investigated existing "send to" dialog in Wolfram Cloud
 - Reviewed "email to" functionalities in competitive products
+</p>
+<p>
 _Solution Proposal:_ Through 2 interative discussion meetings with development team, the wireframe was finalized.
-
+</p>
 **Prototype:**
 <a><img src="../images/email_to.png?raw=true"/></a>
 
@@ -56,13 +64,19 @@ _Solution Proposal:_ Through 2 interative discussion meetings with development t
 The **_goal_** of this project was to: Notify user that they lack of permissions for interative actions.
 
 **Process:**
+<p>
 _Problem Scoping:_ Through 2 kickoff meetings with development team, the project scope and user issue were specified. 
+</p>
+<p>
 _Research:_
 - Investigated existing error cases and notification type in Wolfram Cloud
 - Identify different user situations:
 	- Cache of the interactive content is available
 	- Cache of the interactive content is not available
+</p>
+<p>
 _Solution Proposal:_ Through 2 interative discussion meetings with development team, the wireframe was finalized and sent to design.
+</p>
 **Prototype:**
 <a href="https://www.wolframcloud.com/obj/ddd0ff6c-66cb-4bd6-a0e6-2a320df0f387" target="_blank"><img src="../images/dynamic.png?raw=true"/></a>
 
