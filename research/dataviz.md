@@ -53,7 +53,7 @@ Due to restricted access to long-term care facilities during COVID-19, additiona
 
 #### Results
 Prioritized list of outcomes and metrics that could be implemented for the developed VR exergames.
-<a><img src="images/metrics.png?raw=true"/></a>
+<a><img src="../images/metrics.png?raw=true"/></a>
 
 ### Data Visualization Creation Process
 An interative co-design process was carried out with the same exercise professionals from local ocmmunity programs to develop data visualizations. Two _remote semi-structured focus groups_ were used to brainstorm and refine the data visualization concepts.
@@ -74,7 +74,7 @@ An interative co-design process was carried out with the same exercise professio
 
 **Results:**
 - Conceptual map representing the feasible metrics and expected features was constructured.
-<a><img src="images/cp.png?raw=true"/></a>
+<a><img src="../images/cp.png?raw=true"/></a>
 - Four initial data visualization proposals for futher design brainstorming:
 	- [Distance Rowed Data Visualization](/images/DRDV_1.png)
 	- [Heart Rate Data Visualization](/images/HRSR_1.png)
