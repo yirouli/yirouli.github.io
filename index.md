@@ -35,7 +35,7 @@ I believe technology should be effortless through user-centric design thinking.
 ---
 
 ### UX Reviews and Insights
-- [Wolfram Mathematica Usability Challenge](/pdf/mathematica.phf)
+- [Wolfram Mathematica Usability Challenge](/pdf/mathematica.pdf)
 
 
 
