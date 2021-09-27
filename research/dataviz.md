@@ -11,7 +11,7 @@ The objectives of this project are:
 3. Evaluate the proposed data visualizations on its potential of complementing existing exercise therapy.
 
 ## Contribution
-I design and lead the study (developing session scripts, moderate sessions), as well as data analysis process in this project.
+I design and lead the study (develop session scripts, moderate sessions, construct online questionnaires, recruit participants) as well as data analysis process in this project.
 
 
 ## Outcomes

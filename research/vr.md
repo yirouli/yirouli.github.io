@@ -7,13 +7,14 @@ Exercise has been shown to have significant physical, cognitive, and emotional b
 
 
 ## Contribution
-I helped structure and carry out the sessions as well as data analysis for game development.
+I facilitate the creation, record-keeping, and conduct of the co-design sessions as well as data analysis for game development.
 
 ## Outcomes 
 * A suite of [VR exergames](https://www.youtube.com/watch?v=UighfmftAWA&t=3s) for people living with dementia.
 * [Framework](https://doi.org/10.1007/978-3-030-50164-8_9) to design, develop, and evaluation serious games for health.
 * Publications:
 	* Li Y., Muñoz J., Mehrabi S., Middleton L., Cao S., Boger J. (2020) Multidisciplinary Iterative Design of Exergames (MIDE): A Framework for Supporting the Design, Development, and Evaluation of Exergames for Health. In: Fang X. (eds) HCI in Games. HCII 2020. Lecture Notes in Computer Science, vol 12211. Springer, Cham. [https://doi.org/10.1007/978-3-030-50164-8_9](https://doi.org/10.1007/978-3-030-50164-8_9)
+	* Muñoz J., Mehrabi S., Li Y., Basharat A., Boger J., Cao S., Middleton L., Barnett-Cowan M. (2021). Immersive Virtual Reality Exergames for People Living with Dementia: Working Through a User-Centered Co-Creation Process as a Multi-Stakeholder Team During the COVID-19 Pandemic (Preprint). [10.2196/preprints.29987](https://preprints.jmir.org/preprint/29987)
 
 ## Participants
 - local long-term care facilities
