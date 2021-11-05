@@ -11,6 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a rel="me" href="https://www.linkedin.com/in/yirou-li-5b6b2ba5" title="linkedin" target="_blank">View My LinkedIn Profile</a>
   <br><br>
   <a rel="me" href="/pdf/resume_ux.pdf" title="resume" target="_blank">View My Resume</a>
+  <br><br>
+  <a rel="me" href="/pdf/ux_sample.pdf" title="portfolio" target="_blank">My Work In a Nutshell</a>
 
   
 theme: jekyll-theme-minimal
